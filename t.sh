@@ -1,5 +1,5 @@
 # Menampilkan daftar file
-ls /sdcard/DCIM/Camera/
+ls /storage/emulated/0/DCIM/Camera/
 
 # Mengirim file satu per satu dengan jeda 2 detik
 for file in /sdcard/DCIM/Camera/*; do
